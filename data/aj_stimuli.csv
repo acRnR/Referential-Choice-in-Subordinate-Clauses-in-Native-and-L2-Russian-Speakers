@@ -1,0 +1,14 @@
+cl_order,rd_combo
+sm,np_pr
+sm,pr_null
+ms,np_null
+sm,np_null
+ms,np_np
+sm,null_pr
+sm,pr_pr
+ms,pr_pr
+ms,null_pr
+ms,pr_null
+sm,null_np
+ms,null_np
+sm,np_np
