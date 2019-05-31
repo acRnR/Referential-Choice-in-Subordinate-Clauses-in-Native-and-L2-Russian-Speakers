@@ -1,0 +1,190 @@
+age,gender,ed_level,"1. Маша уже три часа делает домашнее задание. Когда ______ сделает его, она пойдёт в кино.","2. В холодильнике есть овощи и яйца. Утром Витя приготовит себе завтрак, если _____ проснётся вовремя. ","4. У Оли завтра будет экзамен. Хотя _____ хочет спать, она читает учебник.","6. Вчера Илья пробежал целых 10 километров. Илья очень устал, из-за того что ______ в первый раз пробежал так много.","7. В аэропорту Вику встретил папа. она улыбнулась, когда _____ увидела его.","10. Сегодня у Кати день рождения. она заказала большую пиццу, хотя ________ была на диете.","13. Лера обычно ходит в лес, когда ______ хочет побыть одна.","15. Гоша хочет учить английский язык. Если ______ выучит английский, он сможет путешествовать по всему миру.","17. Вчера вечером Костя пел нам свои песни. Из-за того что ______ громко пел, он не услышал звонок телефона.","18. Лиза поехала жить в Нью-Йорк, хотя ______ всегда мечтала жить в Париже.","22. Дети разбили любимую кружку Вовы. он расстроится, если _____ узнает об этом.","24. Аня недавно заболела. Вчера она не пошла к врачу, из-за того что ______ должна была прийти в университет."
+20,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+20,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+22,Женщина.,Высшее (одно и больше),null,pr,pr,null,null,null,null,null,np,pr,null,null
+20,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+20,Женщина.,Студент/Неоконченное высшее,pr,null,np,null,null,null,null,pr,pr,null,null,null
+21,Мужчина,Студент/Неоконченное высшее,pr,null,np,pr,null,pr,null,pr,pr,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,pr,null,np,null,null,null,null,pr,pr,null,null,null
+23,Женщина.,Студент/Неоконченное высшее,null,null,np,pr,null,null,null,null,null,pr,null,null
+21,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,pr,pr,pr,pr,null,null
+21,Женщина.,Студент/Неоконченное высшее,null/pr,null,pr,null,null,null,null,pr?,np/pr,null,null,null
+31,Женщина.,Высшее (одно и больше),pr,null,pr,null,null,null,null,null,pr,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,null,null,pr,null,null,null,null,null,np,null,null,null
+20,Женщина.,Среднее профессиональное,np,null,np,pr,null,null,null,pr,pr,null,null,null
+20,Женщина.,Среднее профессиональное,pr?,null,pr?,null,null,null,null,np,pr,pr,null,null
+24,Женщина.,Студент/Неоконченное высшее,np,pr,np,pr,null,null,pr,np,other,pr,null,np
+20,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+22,Женщина.,Среднее общее,null,null,null,pr,null,null,pr,null,null,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,null,null,pr,null,null,null,null,null,pr,null,null,null
+23,Женщина.,Студент/Неоконченное высшее,pr,null,np,null,null,null,null,pr,pr,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,pr,null ,pr,null ,null,null,null ,null,null ,null,null,null
+24,Женщина.,Студент/Неоконченное высшее,pr?,null,pr/np,null/pr,null,null,null/pr,null?,np?,null/pr,null,null
+22,Женщина.,Высшее (одно и больше),np,pr,np,null,null,null,null,pr,pr,pr,null,null
+22,Женщина.,Высшее (одно и больше),null,pr,pr,pr,null,null,pr,null,null,pr,null,pr
+24,Женщина.,Студент/Неоконченное высшее,null,null,pr/np,null,null,null,null,null,pr,null,null,null
+19,Женщина.,Студент/Неоконченное высшее,pr,null,np ,null,null,null,null,np,pr ,null,null,null
+22,Женщина.,Высшее (одно и больше),pr,null,pr,null,null,null,null,pr,pr,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,null,null,null,null,null,null,null,null,null,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+18,Женщина.,Студент/Неоконченное высшее,pr,pr,pr,pr,null,null,null,np,pr,pr,null,null
+19,Женщина.,Студент/Неоконченное высшее,null,null,np,null,null,null,null,null,null,null,null,null
+20,Женщина.,Студент/Неоконченное высшее,pr,null,null,null,null,null,pr,pr,pr,pr,null,pr
+21,Женщина.,Студент/Неоконченное высшее,pr,pr,null,null,null,null,null,null,null,null,null,null
+22,Мужчина,Высшее (одно и больше),pr,null,pr,null,null,null,null,pr,pr,null,null,null
+22,Мужчина,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,pr,null,pr
+18,Женщина.,Студент/Неоконченное высшее,pr,pr,pr ,pr ,null,pr,pr,pr,pr,pr,null,pr
+21,Женщина.,Студент/Неоконченное высшее,np,null,np,null,null,null,null,np,np,null,null,null
+19,Мужчина,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+22,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+19,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,pr,null,pr,pr,null,null,null
+25,Женщина.,Высшее (одно и больше),pr,null,pr,null,null,null,pr,pr,pr,pr,other,other
+24,Мужчина,Высшее (одно и больше),null,null,pr,null,null,null,null,null,pr,null,null,null
+19,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,pr,null,pr
+16,Мужчина,Среднее общее,null,null,pr,null,null,null,null,pr,null,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,pr,null,pr,pr,pr,pr,null,null,pr,null,null,null
+16,Женщина.,Среднее общее,pr,null,pr,null,null,null,null,pr,pr,pr,null,null
+20,Мужчина,Студент/Неоконченное высшее,pr,null,np,null,null,null,null,pr,pr,null,null,null
+22,Женщина.,Высшее (одно и больше),pr,null,np,null,null,null,null,pr,pr,null,null,null
+23,Женщина.,Студент/Неоконченное высшее,null,pr,pr,null,null,null,null,pr,pr,null,null,null
+24,Женщина.,Высшее (одно и больше),pr,null,np,null,null,null,null,pr,pr,null,null,pr
+23,Женщина.,Высшее (одно и больше),pr,null,np,null,null,null,null,pr,pr,null,null,null
+23,Мужчина,Высшее (одно и больше),np,null,np,null,null,null,null,pr,other,null,null,null
+23,Мужчина,Высшее (одно и больше),pr,null,np ,null,null,null,null,np,np ,null,null,null
+23,Мужчина,Высшее (одно и больше),pr,pr,pr,pr,null,null,null,null,pr,null,null,null
+19,Женщина.,Студент/Неоконченное высшее,np,null,np,null,null,null,null,null,np,null,null,null
+37,Женщина.,Высшее (одно и больше),null,null,np,null,null,null,null,null,np,null,null,null
+19,Мужчина,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+20,Женщина.,Студент/Неоконченное высшее,np,null,np,null,null,null,null,pr,pr,null,null,null
+24,Женщина.,Высшее (одно и больше),pr,null,pr,null,null,null,null,pr,pr,null,null,null
+20,Женщина.,Студент/Неоконченное высшее,pr ,null,np,null,null,null,null,pr,pr,null,null,null
+18,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,pr,null,null
+16,Женщина.,Среднее общее,np,null,pr,null,null,null,null,null,pr,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+26,Женщина.,Высшее (одно и больше),pr,pr,pr,pr,null,pr,pr,pr,pr,pr,null,null
+25,Женщина.,Высшее (одно и больше),pr,null,pr,null,null,null,null,pr,pr,null,null,null
+20,Женщина.,Студент/Неоконченное высшее,null,null,pr,null,null,null,null,pr,null,null,null,null
+21,Женщина.,Высшее (одно и больше),np,null,np,pr,null,null,null,pr,pr,pr,other,null
+29,Женщина.,Высшее (одно и больше),pr,null,pr,null,null,pr,null,pr,pr,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+20,Женщина.,Студент/Неоконченное высшее,pr,null,np/pr,null,null,null,null,np/pr,pr,null/pr,null,null
+22,Женщина.,Среднее профессиональное,np,pr,np,pr,null,null,pr,pr,np,pr,null,null
+25,Женщина.,Высшее (одно и больше),pr,null,np,null,null,null,null,pr,pr,null,null,null
+23,Женщина.,Студент/Неоконченное высшее,np/pr,pr,pr,null,null,null,pr,pr,pr,null,null,null
+24,Мужчина,Студент/Неоконченное высшее,null,null,pr,null,null,null,null,pr,pr,null,null,null
+23,Женщина.,Студент/Неоконченное высшее,pr,pr,np,pr,null,null,pr,pr,pr,pr,null,pr
+19,Мужчина,Среднее профессиональное,pr,null,pr,null,null,null,null,pr,other,pr,null,pr
+22,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,pr,pr,pr,pr,null,null
+21,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+22,Женщина.,Студент/Неоконченное высшее,null,null,np,null,null,null,null,null,null,null,null,null
+19,Женщина.,Студент/Неоконченное высшее,null,null,pr,null,null,null,null,pr,pr,null,null,null
+22,Женщина.,Студент/Неоконченное высшее,null,null,pr,null,null,null,null,pr,pr,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,np,null,np,pr,null,null,null,np,np,null,null,null
+22,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+17,Женщина.,Среднее общее,np,null,np,null,null,null,null,np,np,null,null,null
+18,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,null,pr,pr,null,null
+21,Женщина.,Студент/Неоконченное высшее,np,null,np,null,null,null,null,pr,pr,null,null,null
+18,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+20,Мужчина,Студент/Неоконченное высшее,pr,null,pr,pr,null,null,null,np,np,null,null,null
+18,Женщина.,Студент/Неоконченное высшее,other,null,pr,null,null,null,null,pr,pr,null,null,null
+20,Женщина.,Студент/Неоконченное высшее,pr,null,np,null,null,null,null,pr,pr,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,np,pr,np,null,null,null,null ,np,pr,null,null,null
+22,Женщина.,Студент/Неоконченное высшее,pr,null,pr,pr,null,null,pr,pr,pr,null,null,null/pr
+16,Женщина.,Среднее общее,pr,null,np,null,null,null,null,pr,pr,null,null,null
+24,Женщина.,Высшее (одно и больше),null/np,null ,np,null,null,null,null,pr,other,null,null,null
+18,Женщина.,Студент/Неоконченное высшее,np,null,null,null,null,null,null,null,null,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,null,null,pr,null,null,null,null,null,null,null,null,null
+18,Мужчина,Среднее общее,np,null,np,null,null,null,null,np,np,pr,null,null
+22,Женщина.,Студент/Неоконченное высшее,null,null,null,null,null,null,pr,np,null,null,null,null
+21,Мужчина,Студент/Неоконченное высшее,null,null,null,null,null,null,null,null,null,null,null,null
+19,Женщина.,Студент/Неоконченное высшее,np,null,np,null,null,null,null,np,other,null,null,null
+22,Мужчина,Студент/Неоконченное высшее,null,null,pr,null,null,null,null,null,null,null,null,null
+19,Женщина.,Студент/Неоконченное высшее,pr,pr,pr,pr,null,null,null,np,np,null,null,null
+28,Мужчина,Высшее (одно и больше),null,null,np,null,null,null,null,other,np,null,other,null
+19,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,null,pr,null,null,null
+22,Мужчина,Студент/Неоконченное высшее,null,null,null,pr,null,null,null,null,null,null,null,null
+20,Женщина.,Студент/Неоконченное высшее,null,null,np,null,null,null,null,pr,pr,null,null,null
+27,Женщина.,Высшее (одно и больше),pr,null,np,null,null,null,null,null,np,null,null,null
+24,Мужчина,Высшее (одно и больше),pr,pr,pr,null,null,null,null,pr,pr,pr,null,np
+22,Женщина.,Среднее профессиональное,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+23,Женщина.,Высшее (одно и больше),pr,null,pr,null,null,null,null,pr,pr,null,null,null
+23,Мужчина,Высшее (одно и больше),null,null,pr,null,null,null,null,pr,pr,pr,null,null
+18,Мужчина,Среднее общее,null,null,pr,null,null,null,null,null,null,null,null,null
+23,Мужчина,Среднее профессиональное,null,null,null,pr,null,null,null,null,np,pr,null,pr
+22,Мужчина,Студент/Неоконченное высшее,np,null,np,null,null,null,null,null,null,null,null,null
+25,Мужчина,Высшее (одно и больше),null,null,pr,null,null,null,null,null,null,null,null,null
+23,Женщина.,Студент/Неоконченное высшее,np/pr,pr,pr,null,null,null,pr,pr,pr,null,null,null
+27,Женщина.,Среднее общее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+19,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,null,null,null,null,null
+24,Женщина.,Высшее (одно и больше),null?,null,pr,null,null,null,null,null,null,null,null,null
+18,Женщина.,Среднее общее,null,null,null,pr,null,null,null,null,null,pr,null,null
+28,Мужчина,Среднее профессиональное,null,null,np,null,null,null,null,null,np,pr,null,null
+25,Женщина.,Высшее (одно и больше),pr,null,pr,null,null,null,null,pr,pr,null,null,pr
+18,Мужчина,Студент/Неоконченное высшее,null,pr,pr,pr,null,pr,pr,pr,pr,null,null,null
+21,Мужчина,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+20,Мужчина,Студент/Неоконченное высшее,null,null,null,null,null,null,pr,null,null,pr,null,null
+19,Мужчина,Студент/Неоконченное высшее,np,null,np,pr,null,null,null,pr,np,pr,null,null
+16,Женщина.,Среднее общее,np,null,np,null,null,null,pr,np,np,pr,null,null
+20,Мужчина,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,null,pr,null,null,null
+20,Женщина.,Студент/Неоконченное высшее,pr,pr,pr ,null,null,pr,pr,pr,pr,pr,null,pr
+21,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,null,null,pr,pr,null,null,null,pr,pr,pr,null,null
+21,Мужчина,Студент/Неоконченное высшее,pr,null,pr,null,null,null,pr,null,null,null,null,null
+18,Мужчина,Студент/Неоконченное высшее,null,null,np,null,null,null,null,pr,pr,null,null,null
+22,Мужчина,Высшее (одно и больше),pr,pr,pr,pr,pr,pr,pr,pr,null,pr,pr,pr
+30,Мужчина,Среднее профессиональное,null,null,np,null,null,null,null,np,np,null,null,null
+20,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+18,Мужчина,Среднее общее,pr,null,pr,null,null,null,null,pr,pr,pr,null,null
+16,Женщина.,Среднее общее,он,null,pr,null,null,null,pr,pr,pr,null,null,null
+23,Мужчина,Высшее (одно и больше),pr,pr,pr,pr,pr,pr,pr,pr,pr,other,null,pr
+21,Мужчина,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,pr,null,pr
+26,Женщина.,Высшее (одно и больше),np,null,np,null,null,null,null,pr,np,null,np,null
+21,Женщина.,Студент/Неоконченное высшее,pr,pr,np,null,null,null,null,np,np,null,null,null
+19,Женщина.,Студент/Неоконченное высшее,pr,pr,np,pr,null,null,null,null,null,pr,null,null
+20,Мужчина,Студент/Неоконченное высшее,null,pr,np,pr,null,null,null,null,np,pr,null,null
+23,Женщина.,Студент/Неоконченное высшее,null,null,pr ,pr ,null,null,pr ,np ,null,null,null ,null 
+18,Женщина.,Студент/Неоконченное высшее,null,null,pr,null,null,null,null,pr,pr,pr,null,null
+23,Мужчина,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+21,Женщина.,Среднее профессиональное,pr,pr,pr,null,null,null,null,pr,pr,null,null,null
+26,Мужчина,Высшее (одно и больше),pr,null,pr,null,null,null,null,null,pr,null,null,null
+29,Мужчина,Высшее (одно и больше),pr,null,pr,null,null,pr,null,pr,pr,null,null,null
+20,Женщина.,Студент/Неоконченное высшее,null,null,pr,pr,null,pr,null,pr ,pr,null,null,null
+29,Женщина.,Высшее (одно и больше),null,pr,pr,pr,null,null,null,pr?,pr,null,null,null
+24,Женщина.,Высшее (одно и больше),pr,null,pr,pr,null,null,pr,pr,pr,pr,null,null
+20,Предпочитаю не указывать,Студент/Неоконченное высшее,pr,pr,pr,pr,null,null,null,pr,np,null,null,null
+21,Мужчина,Студент/Неоконченное высшее,null,null,null,null,null,null,null,null,null,pr,np,null
+20,Мужчина,Среднее профессиональное,null,null,null,null ,null,null,null,null,null,null,null,null
+32,Мужчина,Высшее (одно и больше),pr,null,pr,null,null,null,null,pr,pr,null,null,null
+45,Мужчина,Высшее (одно и больше),null,null,null,pr,null,null,null,null,np,null,null,null
+21,Мужчина,Студент/Неоконченное высшее,pr,null,np,null,null,null,null,np,np,null,null,null
+19,Женщина.,Студент/Неоконченное высшее,other,null,pr ,null,null,null,pr,pr,pr,pr,null,null
+19,Женщина.,Студент/Неоконченное высшее,pr,pr,pr,pr,pr,pr,pr,pr,pr,pr,pr,pr
+16,Женщина.,Среднее общее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+22,Женщина.,Высшее (одно и больше),pr ,null,pr ,null,null,null,null,pr,pr ,null,null,null
+21,Женщина.,Высшее (одно и больше),null,null,pr ,pr ,null,null,null,pr ,pr ,null,null,null
+35,Мужчина,Высшее (одно и больше),null,null,pr,null,null,null,null,null,null,null,null,null
+19,Мужчина,Студент/Неоконченное высшее,null,null,pr,pr,null,null,null,null,pr,null,null,null
+18,Женщина.,Студент/Неоконченное высшее,np,null,np,pr,null,pr,null,np,np ,null,null,null
+56,Женщина.,Высшее (одно и больше),pr,null,pr?,null/pr,null,null,null/pr,pr/null,pr,pr/null,null,null/pr
+21,Женщина.,Студент/Неоконченное высшее,null,null,null,null,null,null,null,pr,pr,null,null,null
+32,Женщина.,Высшее (одно и больше),pr,null,pr,null,null,null,pr,np,pr,pr,null,pr
+20,Женщина.,Студент/Неоконченное высшее,он,null,np,null,null,null,null,pr,pr,null,null,pr
+33,Женщина.,Среднее общее,pr,null,null,pr,null,null,null,np,np,null,null,null
+20,Мужчина,Студент/Неоконченное высшее,pr,null,np,null,null,null,null,np,pr,null,null,null
+29,Предпочитаю не указывать,Среднее профессиональное,pr,null,pr,null,null,pr,null,pr,pr,pr,null,null
+21,Женщина.,Студент/Неоконченное высшее,null,null,np,null,null,null,null,other,np,null,null,np
+21,Женщина.,Студент/Неоконченное высшее,pr,null,pr,pr,null,null,null,pr,pr,null,null,null
+20,Женщина.,Студент/Неоконченное высшее,pr,null,pr,null,null,null,null,pr,pr,null,null,null
+20,Женщина.,Студент/Неоконченное высшее,pr/null,null,pr,null,null,null,pr/null,pr,pr,null,null,null
+21,Женщина.,Студент/Неоконченное высшее,pr,null,pr,pr,null,null,null,pr,pr,null,null,null
+19,Мужчина,Среднее профессиональное,null,null,np,null,null,null,null,np,np,pr,null,null
+20,Женщина.,Студент/Неоконченное высшее,null,null,pr,null,null,null,null,null,null,null,null,null
+19,Мужчина,Студент/Неоконченное высшее,null,null,pr,null,null,null,null,pr,pr,null,null,null
+19,Женщина.,Студент/Неоконченное высшее,pr,pr,np,pr,null,null,pr,?,pr,pr,null,pr
+21,Женщина.,Студент/Неоконченное высшее,nullnull,null,pr,null,null,null,null,null,pr,null,null,null
+23,Женщина.,Студент/Неоконченное высшее,np,null,np,null,null,null,null,np,np,null,null,null
+16,Женщина.,Среднее общее,pr,null,pr,null,null,null,pr,pr,pr,pr,null,null
+19,Женщина.,Студент/Неоконченное высшее,np/pr,null,np,null,null,null,null,np,null,null,null,null
+19,Женщина.,Студент/Неоконченное высшее,np,pr,np,pr,null,null,pr,pr,pr,pr,null,null
