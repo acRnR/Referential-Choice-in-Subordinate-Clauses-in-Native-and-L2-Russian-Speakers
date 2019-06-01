@@ -40,6 +40,5 @@ aj_zscore$`26` <- scale(aj_fin$`26`, center = TRUE, scale = TRUE)
 aj_zscore$`27` <- scale(aj_fin$`27`, center = TRUE, scale = TRUE)
 aj_zscore$`28` <- scale(aj_fin$`28`, center = TRUE, scale = TRUE)
 
-install.packages('xlsReadWrite')
 
-write.csv(aj_zscore, file = "ajzscore.csv")
+write.csv(aj_zscore, file = "C:/Users/ssimo/Desktop/Diplom/data/ajzscore.csv")
