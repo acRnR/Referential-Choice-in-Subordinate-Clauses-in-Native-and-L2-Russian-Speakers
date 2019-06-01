@@ -11,18 +11,18 @@
 хотя;np;ms;pr;49
 если;pr;ms;pr;2
 из-за того что;pr;ms;pr;18
-когда;pr;sm;null;53
-если;np;ms;null;159
-хотя;pr;sm;null;15
-из-за того что;np;ms;null;144
-когда;pr;ms;null;185
-хотя;pr;ms;null;174
-когда;np;ms;null;155
-если;pr;sm;null;48
-из-за того что;pr;sm;null;32
-хотя;np;ms;null;136
-если;pr;ms;null;182
-из-за того что;pr;ms;null;165
+когда;pr;sm;no;53
+если;np;ms;no;159
+хотя;pr;sm;no;15
+из-за того что;np;ms;no;144
+когда;pr;ms;no;185
+хотя;pr;ms;no;174
+когда;np;ms;no;155
+если;pr;sm;no;48
+из-за того что;pr;sm;no;32
+хотя;np;ms;no;136
+если;pr;ms;no;182
+из-за того что;pr;ms;no;165
 когда;pr;sm;np;24
 если;np;ms;np;0
 хотя;pr;sm;np;68
@@ -35,18 +35,18 @@
 хотя;np;ms;np;0
 если;pr;ms;np;2
 из-за того что;pr;ms;np;3
-когда;pr;sm;null/pr;1
-если;np;ms;null/pr;0
-хотя;pr;sm;null/pr;0
-из-за того что;np;ms;null/pr;2
-когда;pr;ms;null/pr;0
-хотя;pr;ms;null/pr;0
-когда;np;ms;null/pr;2
-если;pr;sm;null/pr;0
-из-за того что;pr;sm;null/pr;0
-хотя;np;ms;null/pr;2
-если;pr;ms;null/pr;0
-из-за того что;pr;ms;null/pr;2
+когда;pr;sm;no/pr;1
+если;np;ms;no/pr;0
+хотя;pr;sm;no/pr;0
+из-за того что;np;ms;no/pr;2
+когда;pr;ms;no/pr;0
+хотя;pr;ms;no/pr;0
+когда;np;ms;no/pr;2
+если;pr;sm;no/pr;0
+из-за того что;pr;sm;no/pr;0
+хотя;np;ms;no/pr;2
+если;pr;ms;no/pr;0
+из-за того что;pr;ms;no/pr;2
 когда;pr;sm;pr?;2
 если;np;ms;pr?;0
 хотя;pr;sm;pr?;2
@@ -95,18 +95,18 @@
 хотя;np;ms;pr/np;0
 если;pr;ms;pr/np;0
 из-за того что;pr;ms;pr/np;0
-когда;pr;sm;null?;1
-если;np;ms;null?;0
-хотя;pr;sm;null?;0
-из-за того что;np;ms;null?;0
-когда;pr;ms;null?;0
-хотя;pr;ms;null?;0
-когда;np;ms;null?;0
-если;pr;sm;null?;1
-из-за того что;pr;sm;null?;0
-хотя;np;ms;null?;0
-если;pr;ms;null?;0
-из-за того что;pr;ms;null?;0
+когда;pr;sm;no?;1
+если;np;ms;no?;0
+хотя;pr;sm;no?;0
+из-за того что;np;ms;no?;0
+когда;pr;ms;no?;0
+хотя;pr;ms;no?;0
+когда;np;ms;no?;0
+если;pr;sm;no?;1
+из-за того что;pr;sm;no?;0
+хотя;np;ms;no?;0
+если;pr;ms;no?;0
+из-за того что;pr;ms;no?;0
 когда;pr;sm;np?;0
 если;np;ms;np?;0
 хотя;pr;sm;np?;0
@@ -119,30 +119,30 @@
 хотя;np;ms;np?;0
 если;pr;ms;np?;0
 из-за того что;pr;ms;np?;0
-когда;pr;sm;null/np;1
-если;np;ms;null/np;0
-хотя;pr;sm;null/np;0
-из-за того что;np;ms;null/np;0
-когда;pr;ms;null/np;0
-хотя;pr;ms;null/np;0
-когда;np;ms;null/np;0
-если;pr;sm;null/np;0
-из-за того что;pr;sm;null/np;0
-хотя;np;ms;null/np;0
-если;pr;ms;null/np;0
-из-за того что;pr;ms;null/np;0
-когда;pr;sm;pr/null;1
-если;np;ms;pr/null;0
-хотя;pr;sm;pr/null;0
-из-за того что;np;ms;pr/null;0
-когда;pr;ms;pr/null;0
-хотя;pr;ms;pr/null;0
-когда;np;ms;pr/null;1
-если;pr;sm;pr/null;1
-из-за того что;pr;sm;pr/null;0
-хотя;np;ms;pr/null;1
-если;pr;ms;pr/null;0
-из-за того что;pr;ms;pr/null;0
+когда;pr;sm;no/np;1
+если;np;ms;no/np;0
+хотя;pr;sm;no/np;0
+из-за того что;np;ms;no/np;0
+когда;pr;ms;no/np;0
+хотя;pr;ms;no/np;0
+когда;np;ms;no/np;0
+если;pr;sm;no/np;0
+из-за того что;pr;sm;no/np;0
+хотя;np;ms;no/np;0
+если;pr;ms;no/np;0
+из-за того что;pr;ms;no/np;0
+когда;pr;sm;pr/no;1
+если;np;ms;pr/no;0
+хотя;pr;sm;pr/no;0
+из-за того что;np;ms;pr/no;0
+когда;pr;ms;pr/no;0
+хотя;pr;ms;pr/no;0
+когда;np;ms;pr/no;1
+если;pr;sm;pr/no;1
+из-за того что;pr;sm;pr/no;0
+хотя;np;ms;pr/no;1
+если;pr;ms;pr/no;0
+из-за того что;pr;ms;pr/no;0
 когда;pr;sm;?;0
 если;np;ms;?;0
 хотя;pr;sm;?;0
