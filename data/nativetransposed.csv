@@ -1,0 +1,157 @@
+﻿Conjunction;RefDevice;ClOrder;Choice;Frequency
+когда;pr;sm;pr;99
+если;np;ms;pr;30
+хотя;pr;sm;pr;110
+из-за того что;np;ms;pr;43
+когда;pr;ms;pr;4
+хотя;pr;ms;pr;15
+когда;np;ms;pr;31
+если;pr;sm;pr;107
+из-за того что;pr;sm;pr;120
+хотя;np;ms;pr;49
+если;pr;ms;pr;2
+из-за того что;pr;ms;pr;18
+когда;pr;sm;null;53
+если;np;ms;null;159
+хотя;pr;sm;null;15
+из-за того что;np;ms;null;144
+когда;pr;ms;null;185
+хотя;pr;ms;null;174
+когда;np;ms;null;155
+если;pr;sm;null;48
+из-за того что;pr;sm;null;32
+хотя;np;ms;null;136
+если;pr;ms;null;182
+из-за того что;pr;ms;null;165
+когда;pr;sm;np;24
+если;np;ms;np;0
+хотя;pr;sm;np;68
+из-за того что;np;ms;np;0
+когда;pr;ms;np;0
+хотя;pr;ms;np;0
+когда;np;ms;np;0
+если;pr;sm;np;26
+из-за того что;pr;sm;np;30
+хотя;np;ms;np;0
+если;pr;ms;np;2
+из-за того что;pr;ms;np;3
+когда;pr;sm;null/pr;1
+если;np;ms;null/pr;0
+хотя;pr;sm;null/pr;0
+из-за того что;np;ms;null/pr;2
+когда;pr;ms;null/pr;0
+хотя;pr;ms;null/pr;0
+когда;np;ms;null/pr;2
+если;pr;sm;null/pr;0
+из-за того что;pr;sm;null/pr;0
+хотя;np;ms;null/pr;2
+если;pr;ms;null/pr;0
+из-за того что;pr;ms;null/pr;2
+когда;pr;sm;pr?;2
+если;np;ms;pr?;0
+хотя;pr;sm;pr?;2
+из-за того что;np;ms;pr?;0
+когда;pr;ms;pr?;0
+хотя;pr;ms;pr?;0
+когда;np;ms;pr?;0
+если;pr;sm;pr?;2
+из-за того что;pr;sm;pr?;0
+хотя;np;ms;pr?;0
+если;pr;ms;pr?;0
+из-за того что;pr;ms;pr?;0
+когда;pr;sm;np/pr;3
+если;np;ms;np/pr;0
+хотя;pr;sm;np/pr;1
+из-за того что;np;ms;np/pr;0
+когда;pr;ms;np/pr;0
+хотя;pr;ms;np/pr;0
+когда;np;ms;np/pr;0
+если;pr;sm;np/pr;1
+из-за того что;pr;sm;np/pr;1
+хотя;np;ms;np/pr;0
+если;pr;ms;np/pr;0
+из-за того что;pr;ms;np/pr;0
+когда;pr;sm;other;4
+если;np;ms;other;0
+хотя;pr;sm;other;0
+из-за того что;np;ms;other;0
+когда;pr;ms;other;0
+хотя;pr;ms;other;0
+когда;np;ms;other;0
+если;pr;sm;other;2
+из-за того что;pr;sm;other;5
+хотя;np;ms;other;1
+если;pr;ms;other;3
+из-за того что;pr;ms;other;1
+когда;pr;sm;pr/np;0
+если;np;ms;pr/np;0
+хотя;pr;sm;pr/np;2
+из-за того что;np;ms;pr/np;0
+когда;pr;ms;pr/np;0
+хотя;pr;ms;pr/np;0
+когда;np;ms;pr/np;0
+если;pr;sm;pr/np;0
+из-за того что;pr;sm;pr/np;0
+хотя;np;ms;pr/np;0
+если;pr;ms;pr/np;0
+из-за того что;pr;ms;pr/np;0
+когда;pr;sm;null?;1
+если;np;ms;null?;0
+хотя;pr;sm;null?;0
+из-за того что;np;ms;null?;0
+когда;pr;ms;null?;0
+хотя;pr;ms;null?;0
+когда;np;ms;null?;0
+если;pr;sm;null?;1
+из-за того что;pr;sm;null?;0
+хотя;np;ms;null?;0
+если;pr;ms;null?;0
+из-за того что;pr;ms;null?;0
+когда;pr;sm;np?;0
+если;np;ms;np?;0
+хотя;pr;sm;np?;0
+из-за того что;np;ms;np?;0
+когда;pr;ms;np?;0
+хотя;pr;ms;np?;0
+когда;np;ms;np?;0
+если;pr;sm;np?;0
+из-за того что;pr;sm;np?;1
+хотя;np;ms;np?;0
+если;pr;ms;np?;0
+из-за того что;pr;ms;np?;0
+когда;pr;sm;null/np;1
+если;np;ms;null/np;0
+хотя;pr;sm;null/np;0
+из-за того что;np;ms;null/np;0
+когда;pr;ms;null/np;0
+хотя;pr;ms;null/np;0
+когда;np;ms;null/np;0
+если;pr;sm;null/np;0
+из-за того что;pr;sm;null/np;0
+хотя;np;ms;null/np;0
+если;pr;ms;null/np;0
+из-за того что;pr;ms;null/np;0
+когда;pr;sm;pr/null;1
+если;np;ms;pr/null;0
+хотя;pr;sm;pr/null;0
+из-за того что;np;ms;pr/null;0
+когда;pr;ms;pr/null;0
+хотя;pr;ms;pr/null;0
+когда;np;ms;pr/null;1
+если;pr;sm;pr/null;1
+из-за того что;pr;sm;pr/null;0
+хотя;np;ms;pr/null;1
+если;pr;ms;pr/null;0
+из-за того что;pr;ms;pr/null;0
+когда;pr;sm;?;0
+если;np;ms;?;0
+хотя;pr;sm;?;0
+из-за того что;np;ms;?;0
+когда;pr;ms;?;0
+хотя;pr;ms;?;0
+когда;np;ms;?;0
+если;pr;sm;?;1
+из-за того что;pr;sm;?;0
+хотя;np;ms;?;0
+если;pr;ms;?;0
+из-за того что;pr;ms;?;0
